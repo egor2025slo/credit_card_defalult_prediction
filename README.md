@@ -28,7 +28,7 @@ Credit default poses a significant financial risk to lending institutions. This 
 
 The dataset used is the "Default of Credit Card Clients Dataset" from the UCI Machine Learning Repository. It contains demographic and historical payment data for 30,000 credit card clients in Taiwan from April to September 2005.
 
-- **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+- **Source:** [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)
 
 ---
 
